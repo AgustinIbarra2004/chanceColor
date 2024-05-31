@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#miDiv {
+    justify-content: cente;
+    font-size: 30px;
+    text-align: center;
+    padding: 413px;
+}
+#miDiv button{
+    font-size: 50px;
+}
